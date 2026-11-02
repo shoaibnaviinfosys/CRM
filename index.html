@@ -69,3 +69,5 @@ function referenceModal(cfg,item){const id=cfg.id;showModal(item?'Edit '+cfg.tit
 (async()=>{if(!state.token){loginView();return}try{await loadBoot();render()}catch(e){sessionStorage.removeItem('navyToken');state.token='';loginView()}})();
 </script>
 </body></html>
+
+
