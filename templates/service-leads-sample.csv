@@ -1,0 +1,6 @@
+name,contact,email,interested_in,source,priority,remarks
+Ram Sharma,9812345678,ram@example.com,Meta Ads,Facebook,Medium,Interested in monthly package
+Sita Thapa,9801234567,sita@example.com,Website Development,Referral,High,Needs a business website
+,,only-email@example.com,,,,Email-only lead example
+,9811111111,,,,,Phone-only lead example
+Name-only example,,,,,,Name-only lead example
